@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>info.crazylab.event</groupId>
+  <artifactId>event-bus</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190123232657</lastUpdated>
+  </versioning>
+</metadata>
