@@ -1,4 +1,4 @@
-package info.crazylab.event.eventbus;
+package info.crazylab.lib.eventbus;
 
 public interface Event {
 
